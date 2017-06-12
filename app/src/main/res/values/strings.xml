@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetrofitProject</string>
+    <string name="send">Send</string>
+    <string name="send_hint">Type request here</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, id liber reformidans disputationi qui, quot posse eleifend quo in.</string>
+    <string name="test_user">code-n-roll</string>
+    <string name="error_message_validation">Enter valid github username!</string>
+    <string name="error_internet_connection">Check your internet connection!</string>
+</resources>
